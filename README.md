@@ -16,15 +16,7 @@ Dont forget to fork & star repo
 ---
 
 <div align="center">
-  <img src="https://files.catbox.moe/eru8qg.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/divider.gif?raw=true" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://files.catbox.moe/rabdd2.png" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
             `DEPLOMENT STEPS`
@@ -40,6 +32,11 @@ Dont forget to fork & star repo
 </div>
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
+
+  > **∞ BMB ACCOUNT**
+  <a href='https://github.com/bmbxmd' target="_blank">
+    <img src='https://img.shields.io/badge/FOLLOW ACCOUNT-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
   
   > **⚠️ OPTION ONE**
   <a href='https://bmb-website-code-generator.onrender.com/pair' target="_blank">
@@ -52,18 +49,12 @@ Dont forget to fork & star repo
   <a href='https://bmb-website-code-generator.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
-  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/warning.gif?raw=true" width="15"/> 
 
-<div align="center">
-  <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
-</div>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=DEPLOYMENT.OPTION" alt="Typing SVG" /></a>
   </p>
-
 ---
-
 <h4 align="center">2. heroku</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
@@ -146,11 +137,11 @@ That's all bot connected
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>B.m.b-Xmd~sedEyTjZ#eUi5zg41_HH1hECLP7JXkODStVCHo42wObxhmMUPMS4
 --------
 
-<h4 align="center">6. Hugging Face</h4>
+<h4 align="center">6. ZIP FILE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://www.mediafire.com/file/at7yp0spnfs5p35/B.M.B-XMD-main.bmb/file' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-zip file-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
 
 <details>
   
@@ -158,9 +149,9 @@ That's all bot connected
 <p style="text-align: center; font-size: 1.2em;">
  
 
-<h3 align="center"> HOW TO DEPLOY ON HUGGING FACE</h3>
+<h3 align="center">DOWNLOAD ZIP FILE </h3>
 <h6 align-"center">
-*❄️ Deploy bmb xmd On Hugging Face For Free !*
+*❄️ Deploy bmb xmd On bot-hosting For Free !*
 
 `Specs :`
 - v2 CPU
@@ -169,10 +160,10 @@ That's all bot connected
 > `Steps to deploy`
 
 `Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
+1. Go to bot-hosting.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/bmbxmd/B.M.B-XMD
+1. Go to the https://bot-hosting.net/?aff=1338673948329508876
 
 2. Tap on *three dots* _(as shown in image)_
 
